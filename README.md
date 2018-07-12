@@ -19,6 +19,8 @@ letters.m - has initial cell with letter datasets, which are given to dataManage
 numbers.m - has initial cell with number datasets, which are given to dataManager
   for further processing. After getting results, it displays the predicted
   number.
-  
+
+project-point matching.pdf - Project Paper
+
 letter.m and numbers.m are given as example how dataManager.m and ppm.m can be
 used. They are not mandatory!
